@@ -1,2 +1,8 @@
-# CSS-Hamburger-Menu
-Hamburger Menu w/ Animation
+# Overview
+Hamburger menu with animation. NO JAVASCRIPT.
+
+## Tech Stack
+- HTML
+- CSS
+
+
